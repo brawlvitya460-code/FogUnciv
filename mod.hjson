@@ -1,0 +1,18 @@
+{
+	modName: "FogUnciv"
+	modVersion: "1.0"
+	lastUpdated: 2025-06-15
+	author: "FogUnciv Team"
+	
+	// Основная информация о моде
+	description: "A mod adding the Ukrainian nation and the Shahed drone unit to Unciv"
+	
+	// Список файлов для загрузки
+	nations: ["Ukraine"]
+	units: ["Shahed"]
+	buildings: []
+	
+	// Совместимость
+	minGameVersion: "4.0.0"
+	maxGameVersion: "9999.0.0"
+}

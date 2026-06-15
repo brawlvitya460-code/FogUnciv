@@ -1,0 +1,24 @@
+[
+  {
+    "name": "Shahed",
+    "unitType": "Ranged",
+    "movement": 10,
+    "strength": 40,
+    "rangedStrength": 75,
+    "range": 3,
+    "cost": 60,
+    "requiredTech": "Radar",
+    "requiredResource": null,
+    "replaces": null,
+    "replacementTextIcon": null,
+    "promotions": [],
+    "obsoleteTech": null,
+    "upgradesTo": null,
+    "civilopedia": "A high-altitude reconnaissance and attack drone with extended range capabilities.",
+    
+    "uniques": [
+      "Cannot enter ocean tiles",
+      "Must set up to ranged attack"
+    ]
+  }
+]

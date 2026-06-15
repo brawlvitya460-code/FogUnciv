@@ -1,0 +1,61 @@
+[
+  {
+    "name": "Ukraine",
+    "leaderName": "Volodymyr Zelenskyy",
+    "adjective": ["Ukrainian"],
+    "startBias": ["Plains", "Rivers"],
+    "preferredVictoryType": "Scientific",
+    
+    "startInnerCityBoundaries": ["Fertile"],
+    
+    "cities": [
+      "Kyiv",
+      "Kharkiv",
+      "Odesa",
+      "Lviv",
+      "Dnipro",
+      "Donetsk",
+      "Luhansk",
+      "Zaporizhzhia",
+      "Mykolaiv",
+      "Mariupol",
+      "Chernivtsi",
+      "Rivne",
+      "Vinnytsia",
+      "Zhytomyr",
+      "Sumy",
+      "Poltava",
+      "Cherkasy",
+      "Khmelnytskyi",
+      "Ternopil",
+      "Ivano-Frankivsk"
+    ],
+    
+    "spyNames": [
+      "Ivan",
+      "Olena",
+      "Serhii",
+      "Mariya",
+      "Petro",
+      "Yuliya",
+      "Andriy",
+      "Natalia"
+    ],
+    
+    "uniqueUnit": "Shahed",
+    "uniqueBuilding": null,
+    "uniqueName": null,
+    
+    "declaringWar": "Your land will burn!",
+    "attacked": "You dare attack us?!",
+    "defeated": "We will return...",
+    "introduction": "Greetings! I am Volodymyr Zelenskyy, leader of Ukraine. We are a nation of resilient people, defenders of freedom!",
+    "neutralHello": "Hello.",
+    "hateHello": "What do you want?",
+    
+    "tradeRequest": "Let us trade between our nations.",
+    
+    "outerColor": [0, 102, 204],
+    "innerColor": [255, 205, 0]
+  }
+]
