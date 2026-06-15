@@ -4,6 +4,7 @@
     "leaderName": "Volodymyr Zelenskyy",
     "style": "European",
     "startBias": ["Plains"],
+    "cities": ["Kyiv", "Lviv", "Odesa", "Dnipro", "Kharkiv"],
     "uniques": [
       "[-30]% Science cost of researching new Technologies",
       "[+25]% Strength"
@@ -14,6 +15,7 @@
     "leaderName": "Nursultan Nazarbayev",
     "style": "Asian",
     "startBias": ["Plains"],
+    "cities": ["Astana", "Almaty", "Shymkent", "Karaganda"],
     "uniques": []
   },
   {
@@ -21,6 +23,7 @@
     "leaderName": "Bender",
     "style": "European",
     "startBias": ["Plains"],
+    "cities": ["Bender City", "Fry City", "Planet Express", "Futurama"],
     "uniques": []
   },
   {
@@ -28,6 +31,7 @@
     "leaderName": "Joseph Stalin",
     "style": "European",
     "startBias": ["Plains"],
+    "cities": ["Moscow", "Leningrad", "Kyiv", "Minsk"],
     "uniques": []
   },
   {
@@ -35,6 +39,7 @@
     "leaderName": "Blackbeard",
     "style": "European",
     "startBias": ["Coast"],
+    "cities": ["Port Royal", "Tortuga", "Nassau", "Galleon"],
     "uniques": []
   },
   {
@@ -42,6 +47,7 @@
     "leaderName": "Captain Cook",
     "style": "European",
     "startBias": ["Plains"],
+    "cities": ["Discovery", "Frontier", "Nova", "Atlas"],
     "uniques": []
   }
 ]

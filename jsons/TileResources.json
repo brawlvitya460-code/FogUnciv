@@ -3,44 +3,28 @@
     "name": "Dollar",
     "resourceType": "Strategic",
     "uniques": [
-      "Stockpiled",
-      "Cannot be traded",
-      "Not shown on world screen",
-      "AI will buy at [300] Gold",
-      "AI will sell at [150] Gold"
+      "Stockpiled"
     ]
   },
   {
     "name": "Grivna",
     "resourceType": "Strategic",
     "uniques": [
-      "Stockpiled",
-      "Cannot be traded",
-      "Not shown on world screen",
-      "AI will buy at [120] Gold",
-      "AI will sell at [60] Gold"
+      "Stockpiled"
     ]
   },
   {
     "name": "Ruble",
     "resourceType": "Strategic",
     "uniques": [
-      "Stockpiled",
-      "Cannot be traded",
-      "Not shown on world screen",
-      "AI will buy at [120] Gold",
-      "AI will sell at [60] Gold"
+      "Stockpiled"
     ]
   },
   {
     "name": "Yuan",
     "resourceType": "Strategic",
     "uniques": [
-      "Stockpiled",
-      "Cannot be traded",
-      "Not shown on world screen",
-      "AI will buy at [40] Gold",
-      "AI will sell at [20] Gold"
+      "Stockpiled"
     ]
   }
 ]
