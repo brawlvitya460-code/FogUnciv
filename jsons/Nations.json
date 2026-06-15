@@ -5,8 +5,43 @@
     "style": "European",
     "startBias": ["Plains"],
     "uniques": [
-      "[+25]% Science cost of new Technologies",
-      "[+15]% Strength"
+      "[-30]% Science cost of researching new Technologies",
+      "[+25]% Strength"
     ]
+  },
+  {
+    "name": "Kazakhstan",
+    "leaderName": "Nursultan Nazarbayev",
+    "style": "Asian",
+    "startBias": ["Plains"],
+    "uniques": []
+  },
+  {
+    "name": "Benders",
+    "leaderName": "Bender",
+    "style": "European",
+    "startBias": ["Plains"],
+    "uniques": []
+  },
+  {
+    "name": "USSR",
+    "leaderName": "Joseph Stalin",
+    "style": "European",
+    "startBias": ["Plains"],
+    "uniques": []
+  },
+  {
+    "name": "Pirates",
+    "leaderName": "Blackbeard",
+    "style": "European",
+    "startBias": ["Coast"],
+    "uniques": []
+  },
+  {
+    "name": "Explorers",
+    "leaderName": "Captain Cook",
+    "style": "European",
+    "startBias": ["Plains"],
+    "uniques": []
   }
 ]
