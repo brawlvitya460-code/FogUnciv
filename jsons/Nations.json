@@ -4,10 +4,17 @@
     "leaderName": "Volodymyr Zelenskyy",
     "style": "European",
     "startBias": ["Plains"],
-    "cities": ["Kyiv", "Lviv", "Odesa", "Dnipro", "Kharkiv"],
-    "uniques": [
-      "[-30]% Science cost of researching new Technologies",
-      "[+25]% Strength"
+    "cities": [
+      "Kyiv",
+      "Kharkiv",
+      "Odesa",
+      "Lviv",
+      "Dnipro",
+      "Donetsk",
+      "Luhansk",
+      "Zaporizhzhia",
+      "Mykolaiv",
+      "Mariupol"
     ]
   },
   {
@@ -15,39 +22,64 @@
     "leaderName": "Nursultan Nazarbayev",
     "style": "Asian",
     "startBias": ["Plains"],
-    "cities": ["Astana", "Almaty", "Shymkent", "Karaganda"],
-    "uniques": []
+    "cities": [
+      "Astana",
+      "Almaty",
+      "Shymkent",
+      "Karaganda",
+      "Aktobe"
+    ]
   },
   {
     "name": "Benders",
     "leaderName": "Bender",
     "style": "European",
     "startBias": ["Plains"],
-    "cities": ["Bender City", "Fry City", "Planet Express", "Futurama"],
-    "uniques": []
+    "cities": [
+      "Bender City",
+      "Fry City",
+      "Planet Express",
+      "Futurama",
+      "New New York"
+    ]
   },
   {
     "name": "USSR",
     "leaderName": "Joseph Stalin",
     "style": "European",
     "startBias": ["Plains"],
-    "cities": ["Moscow", "Leningrad", "Kyiv", "Minsk"],
-    "uniques": []
+    "cities": [
+      "Moscow",
+      "Leningrad",
+      "Kyiv",
+      "Minsk",
+      "Tbilisi"
+    ]
   },
   {
     "name": "Pirates",
     "leaderName": "Blackbeard",
     "style": "European",
     "startBias": ["Coast"],
-    "cities": ["Port Royal", "Tortuga", "Nassau", "Galleon"],
-    "uniques": []
+    "cities": [
+      "Port Royal",
+      "Tortuga",
+      "Nassau",
+      "Galleon",
+      "Barbados"
+    ]
   },
   {
     "name": "Explorers",
     "leaderName": "Captain Cook",
     "style": "European",
     "startBias": ["Plains"],
-    "cities": ["Discovery", "Frontier", "Nova", "Atlas"],
-    "uniques": []
+    "cities": [
+      "Discovery",
+      "Frontier",
+      "Nova",
+      "Atlas",
+      "Haven"
+    ]
   }
 ]

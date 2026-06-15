@@ -1,7 +1,7 @@
 [
   {
     "name": "Shahed",
-    "unitType": "Bomber",
+    "unitType": "Ranged",
     "cost": 60,
     "movement": 10,
     "strength": 40,
@@ -9,8 +9,8 @@
     "range": 3,
     "requiredTech": "Radar",
     "uniques": [
-      "Self-destructs when attacking",
-      "[+25]% Strength"
+      "Cannot enter ocean tiles",
+      "Must set up to ranged attack"
     ]
   }
 ]

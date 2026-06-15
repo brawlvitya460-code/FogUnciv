@@ -2,29 +2,25 @@
   {
     "name": "Dollar",
     "resourceType": "Strategic",
-    "uniques": [
-      "Stockpiled"
-    ]
+    "color": [255, 215, 0],
+    "uniques": ["Stockpiled"]
   },
   {
     "name": "Grivna",
     "resourceType": "Strategic",
-    "uniques": [
-      "Stockpiled"
-    ]
+    "color": [0, 102, 204],
+    "uniques": ["Stockpiled"]
   },
   {
     "name": "Ruble",
     "resourceType": "Strategic",
-    "uniques": [
-      "Stockpiled"
-    ]
+    "color": [255, 0, 0],
+    "uniques": ["Stockpiled"]
   },
   {
     "name": "Yuan",
     "resourceType": "Strategic",
-    "uniques": [
-      "Stockpiled"
-    ]
+    "color": [255, 0, 0],
+    "uniques": ["Stockpiled"]
   }
 ]
